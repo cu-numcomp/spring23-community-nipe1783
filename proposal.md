@@ -10,20 +10,20 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/fetchai/agents-aea   |
+| Main/documentation website |    https://docs.fetch.ai/|
+| Year project was started |   2019|
+| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` 71|
+| Number of contributors in the lifetime of the project |  121 |
+| Number of distinct affiliations | Unkown |
+| Where do development discussions take place? | Development discussions for the "agents-aea" repository take place primarily on GitHub through issues and pull requests. The project also has a Discord server for community discussions.|
+| Typical number of emails/comments per week? |  Unkwown |
+| Typical number of commits per week? | 3 |
+| Typical commit size | `git log --shortstat` This can vary alot. When adjusting Md files its only a few lines but some commits effect over a thousand files |
+| How does the project accept contributions? | The "agents-aea" project accepts contributions primarily through pull requests on GitHub. Contributors must sign a Contributor License Agreement (CLA) before their contributions can be merged.|
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | Yes, contributors to the "agents-aea" project are required to sign a Contributor License Agreement (CLA) before their contributions can be merged. The CLA is available in the repository's CLA folder. |
 
 ### Install and run
 
