@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *AEA Framework*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*The "agents-aea" repository is a project developed by Fetch.ai that provides an infrastructure for building autonomous economic agents (AEAs) using a decentralized approach. This repository is intended for developers interested in building decentralized applications that can interact with other AEAs and networks. The project provides a framework for building and testing AEAs, including tools for agent communication, resource management, and decision-making. It also includes pre-built components for building AEAs, such as skill templates, agent templates, and protocol packages. The project's focus on decentralized economic agents makes it an ideal choice for developers interested in building decentralized finance (DeFi) applications or other decentralized marketplaces.*
 
 ### Stats
 
